@@ -1,0 +1,843 @@
+[
+    {
+       "delegation": "Jebel Jelloud",
+       "localite": "El Garjouma",
+       "cp": "1046"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Cartage Byrsa",
+       "cp": "2016"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Essalama",
+       "cp": "2076"
+   }, {
+       "delegation": "Jebel Jelloud",
+       "localite": "El Sebkha",
+       "cp": "1046"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Cartage Plage",
+       "cp": "2016"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Essirene",
+       "cp": "2076"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Bab Bhar",
+       "cp": "1000"
+   }, {
+       "delegation": "Jebel Jelloud",
+       "localite": "Jebel Jelloud",
+       "cp": "1046"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Cite De La Steg",
+       "cp": "2016"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Marsa Erriadh",
+       "cp": "2076"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Bab El Jazira",
+       "cp": "1000"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Berge Du Lac",
+       "cp": "1053"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Cite Mohamed Ali",
+       "cp": "2016"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "Casino La Goulette",
+       "cp": "2060"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Afh",
+       "cp": "2078"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Sidi Bahri",
+       "cp": "1000"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Amilcar",
+       "cp": "1054"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Cite Des Enseignants",
+       "cp": "2017"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "Cite Ennacim La Brise",
+       "cp": "2060"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Ben Chaabane",
+       "cp": "2078"
+   }, {
+       "delegation": "La Medina",
+       "localite": "El Medina",
+       "cp": "1000"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Gammart",
+       "cp": "1057"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Cite Star",
+       "cp": "2017"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "El Battah",
+       "cp": "2060"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite Des Medecins",
+       "cp": "2092"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Des Vergers",
+       "cp": "2078"
+   }, {
+       "delegation": "La Medina",
+       "localite": "El Sabaghine",
+       "cp": "1000"
+   }, {
+       "delegation": "La Medina",
+       "localite": "El Hafsia",
+       "cp": "1059"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Khaznadar",
+       "cp": "2017"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "Kheireddine",
+       "cp": "2060"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite Du Paradis",
+       "cp": "2092"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Du Stade",
+       "cp": "2078"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Sidi Boumendil",
+       "cp": "1000"
+   }, {
+       "delegation": "El Omrane Superieur",
+       "localite": "Cite El Intilaka",
+       "cp": "1064"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "La Goulette",
+       "cp": "2060"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite Faiza",
+       "cp": "2092"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Ahmadi",
+       "cp": "2078"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Republique",
+       "cp": "1001"
+   }, {
+       "delegation": "El Omrane Superieur",
+       "localite": "El Nassim",
+       "cp": "1064"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "La Goulette Nouvelle",
+       "cp": "2060"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite Saba",
+       "cp": "2092"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Hana",
+       "cp": "2078"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Hedi Chaker",
+       "cp": "1002"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "La Goulette Port",
+       "cp": "1067"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "El Manar 2",
+       "cp": "2092"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Moez",
+       "cp": "2078"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Taieb El M'Hiri",
+       "cp": "1002"
+   }, {
+       "delegation": "El Omrane Superieur",
+       "localite": "Rommana",
+       "cp": "1068"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Moustakbel (Sidi Daoud)",
+       "cp": "2078"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Cite Jardins",
+       "cp": "1002"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Bougatfa 1",
+       "cp": "2051"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Habib Thameur",
+       "cp": "1069"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Moustakbel (La Marsa)",
+       "cp": "2078"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Kheireddine Pacha",
+       "cp": "1002"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Errachidia",
+       "cp": "2051"
+   }, {
+       "delegation": "Bab Bhar",
+       "localite": "Montplaisir",
+       "cp": "1073"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Malhatli",
+       "cp": "2078"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Tunis Belvedere",
+       "cp": "1002"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Essalama",
+       "cp": "2051"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "El Mourouj 2",
+       "cp": "1074"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Rimila 1",
+       "cp": "2078"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Cite El Khadra",
+       "cp": "1003"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Essoltani",
+       "cp": "2051"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab El Khadra",
+       "cp": "1075"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Rimila 2",
+       "cp": "2078"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Cite El Wafa",
+       "cp": "1003"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Jlas",
+       "cp": "2051"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite Caravelles",
+       "cp": "1082"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Marsa Safsaf",
+       "cp": "2078"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Cite Olympeade",
+       "cp": "1003"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Medjerda",
+       "cp": "2051"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite El Mahrajene",
+       "cp": "1082"
+   }, {
+       "delegation": "El Omrane Superieur",
+       "localite": "Cite Ibn Khaldoun I",
+       "cp": "2062"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Cite Oplympique",
+       "cp": "1003"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Ezzahrouni",
+       "cp": "2051"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Cite Snit",
+       "cp": "1082"
+   }, {
+       "delegation": "El Omrane Superieur",
+       "localite": "Cite Ibn Khaldoun Vi",
+       "cp": "2062"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "Cite Star",
+       "cp": "1003"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Bouzaiene",
+       "cp": "2052"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "El Menzah 2",
+       "cp": "1082"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "El Menzah 1",
+       "cp": "1004"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Ezzouhour 5",
+       "cp": "2052"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "El Menzah 3",
+       "cp": "1082"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Bir Atig",
+       "cp": "1005"
+   }, {
+       "delegation": "Ezzouhour  (Tunis)",
+       "localite": "Cite Des Officiers",
+       "cp": "2052"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "El Menzah 4",
+       "cp": "1082"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Cite Centrale",
+       "cp": "1005"
+   }, {
+       "delegation": "Ezzouhour  (Tunis)",
+       "localite": "Cite Essaada",
+       "cp": "2052"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "Mutuelle Ville",
+       "cp": "1082"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Cite Des Oliviers",
+       "cp": "1005"
+   }, {
+       "delegation": "Ezzouhour  (Tunis)",
+       "localite": "Cite Essomrane",
+       "cp": "2052"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Abou El Kacem Chebbi",
+       "cp": "1089"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Cite El Habib",
+       "cp": "1005"
+   }, {
+       "delegation": "Ezzouhour  (Tunis)",
+       "localite": "Cite Ezzouhour",
+       "cp": "2052"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Bab Alioua",
+       "cp": "1089"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Cite Militaire",
+       "cp": "1005"
+   }, {
+       "delegation": "Ezzouhour  (Tunis)",
+       "localite": "Ezzouhour 4",
+       "cp": "2052"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "El Gourjani",
+       "cp": "1089"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Djbal El Ahmar",
+       "cp": "1005"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "Cite Bou Hjar",
+       "cp": "2053"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Essaida Mannoubia",
+       "cp": "1089"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "El Omrane",
+       "cp": "1005"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "El Kabbaria 1",
+       "cp": "2053"
+   }, {
+       "delegation": "Carthage",
+       "localite": "El Yasmina",
+       "cp": "2085"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Monfleury",
+       "cp": "1089"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Oued El Sebai",
+       "cp": "1005"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "El Kabbaria 2",
+       "cp": "2053"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Saida Manoubia",
+       "cp": "1089"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab El Akoues",
+       "cp": "1006"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "El Kabbaria 3",
+       "cp": "2053"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Sidi El Bechir",
+       "cp": "1089"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab El Alouj",
+       "cp": "1006"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "El Kabbaria 4",
+       "cp": "2053"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite El Mechtel",
+       "cp": "2087"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Sidi Mansour",
+       "cp": "1089"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab El Assel",
+       "cp": "1006"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "El Ouerdia 4",
+       "cp": "2053"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "Cite Hwas",
+       "cp": "2087"
+   }, {
+       "delegation": "El Omrane Superieur",
+       "localite": "El Omrane Superieur",
+       "cp": "1091"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab Sidi Abdessalem",
+       "cp": "1006"
+   }, {
+       "delegation": "El Hrairia",
+       "localite": "El Hrairia",
+       "cp": "2087"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Birine",
+       "cp": "1095"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab Souika",
+       "cp": "1006"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Borj Chakir",
+       "cp": "1095"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Borj Zouara",
+       "cp": "1006"
+   }, {
+       "delegation": "El Kram",
+       "localite": "Bir El Hlou",
+       "cp": "2089"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite 25 Juillet",
+       "cp": "1095"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "El Halfaouine",
+       "cp": "1006"
+   }, {
+       "delegation": "El Kram",
+       "localite": "Le Kram Ouest",
+       "cp": "2089"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite 7 Novembre",
+       "cp": "1095"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Hammam El Remimi",
+       "cp": "1006"
+   }, {
+       "delegation": "El Kram",
+       "localite": "Sidi Amor",
+       "cp": "2089"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite El Bettoumi",
+       "cp": "1095"
+   }, {
+       "delegation": "El Kabbaria",
+       "localite": "Ibn Sina",
+       "cp": "2066"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Sidi Djebeli",
+       "cp": "1006"
+   }, {
+       "delegation": "La Goulette",
+       "localite": "Cite El Mechtel",
+       "cp": "2089"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite El Gaafouri",
+       "cp": "1095"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Tronja",
+       "cp": "1006"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite El Mestiri",
+       "cp": "1095"
+   }, {
+       "delegation": "Essijoumi",
+       "localite": "Cite Helal",
+       "cp": "2072"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Zaouiet El Bakria",
+       "cp": "1006"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite Mohamed Ali",
+       "cp": "1095"
+   }, {
+       "delegation": "La Medina",
+       "localite": "El Taoufik",
+       "cp": "1006"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite Mrad 1",
+       "cp": "1095"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Souk Nel Nhes",
+       "cp": "1006"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Cite Mrad 2",
+       "cp": "1095"
+   }, {
+       "delegation": "Essijoumi",
+       "localite": "El Mellassine",
+       "cp": "1007"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Jayara",
+       "cp": "1095"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Bab Djedid",
+       "cp": "1008"
+   }, {
+       "delegation": "Sidi Hassine",
+       "localite": "Sidi Hassine",
+       "cp": "1095"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Bab Menara",
+       "cp": "1008"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Cite Du Jardin",
+       "cp": "2042"
+   }, {
+       "delegation": "La Medina",
+       "localite": "El Zraria",
+       "cp": "1008"
+   }, {
+       "delegation": "Cite El Khadra",
+       "localite": "El Charguia",
+       "cp": "2035"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Cite El Ferdaous",
+       "cp": "2042"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Sidi Ali Azouz",
+       "cp": "1008"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Ras Tabia",
+       "cp": "2000"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Cite Essadik",
+       "cp": "2042"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Tourbet El Bey",
+       "cp": "1008"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Bouchoucha",
+       "cp": "2000"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Cite Ettahrir Sup.",
+       "cp": "2042"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Maakel EzzaÂ¤M",
+       "cp": "1008"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Cite Alten",
+       "cp": "2000"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Ettahrir 1",
+       "cp": "2042"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Bellevue",
+       "cp": "1009"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Cite Du Stade",
+       "cp": "2000"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Ettahrir 2",
+       "cp": "2042"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Borj Ali Errais",
+       "cp": "1009"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Le Bardo",
+       "cp": "2000"
+   }, {
+       "delegation": "Ettahrir",
+       "localite": "Ettahrir 3",
+       "cp": "2042"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Cite El Izdihar",
+       "cp": "1009"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Bortal Hayder",
+       "cp": "2009"
+   }, {
+       "delegation": "Jebel Jelloud",
+       "localite": "Cite Thameur",
+       "cp": "2023"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Cite Mohamed Ali",
+       "cp": "1009"
+   }, {
+       "delegation": "Le Bardo",
+       "localite": "Ksar Said",
+       "cp": "2009"
+   }, {
+       "delegation": "Jebel Jelloud",
+       "localite": "El Afrane",
+       "cp": "2023"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Dibouzville",
+       "cp": "1009"
+   }, {
+       "delegation": "Jebel Jelloud",
+       "localite": "Sidi Fathallah",
+       "cp": "2023"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Mhiri",
+       "cp": "2045"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "El Ouerdia",
+       "cp": "1009"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Sprols",
+       "cp": "2045"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Lakagnia",
+       "cp": "1009"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Aziza",
+       "cp": "2046"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Les Martyrs",
+       "cp": "1009"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Salambo",
+       "cp": "2025"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Borj El Kouki",
+       "cp": "2076"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Bhar Lazreg",
+       "cp": "2046"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Mathul De Ville",
+       "cp": "1009"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Sidi Bousaid",
+       "cp": "2026"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite De La Telediffusion 1",
+       "cp": "2076"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Mongi Slim",
+       "cp": "2046"
+   }, {
+       "delegation": "El Ouerdia",
+       "localite": "Monhomme",
+       "cp": "1009"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite De La Telediffusion 2",
+       "cp": "2076"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Sidi Daoud",
+       "cp": "2046"
+   }, {
+       "delegation": "El Menzah",
+       "localite": "El Menzah 9",
+       "cp": "1013"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Des Juges 2",
+       "cp": "2076"
+   }, {
+       "delegation": "La Medina",
+       "localite": "Bab Bnet",
+       "cp": "1019"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Des Mimosas",
+       "cp": "2076"
+   }, {
+       "delegation": "Sidi El Bechir",
+       "localite": "Bab El Falla",
+       "cp": "1027"
+   }, {
+       "delegation": "El Kram",
+       "localite": "Erriadh",
+       "cp": "2015"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Fateh",
+       "cp": "2076"
+   }, {
+       "delegation": "Bab Souika",
+       "localite": "Bab Saadoun",
+       "cp": "1029"
+   }, {
+       "delegation": "El Kram",
+       "localite": "Le Kram",
+       "cp": "2015"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Khalil",
+       "cp": "2076"
+   }, {
+       "delegation": "El Omrane",
+       "localite": "Bab Saadoun Gare",
+       "cp": "1029"
+   }, {
+       "delegation": "El Kram",
+       "localite": "Le Kram Est",
+       "cp": "2015"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite El Ouns",
+       "cp": "2076"
+   }, {
+       "delegation": "Jebel Jelloud",
+       "localite": "Ali Bach-Hamba",
+       "cp": "1046"
+   }, {
+       "delegation": "Carthage",
+       "localite": "Carthage",
+       "cp": "2016"
+   }, {
+       "delegation": "La Marsa",
+       "localite": "Cite Erriadh",
+       "cp": "2076"
+   }
+]

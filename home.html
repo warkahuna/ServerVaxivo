@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Coucou</title>
+  </head>
+  <body>
+    
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"> </script>
+    <script>
+        var model;
+        var myImage = new Image();
+        myImage.crossOrigin = "anonymous";
+        myImage.src = 'http://localhost:3000/getImage';
+
+       
+      modelLoad("http://localhost:3000/getModel");
+      modelLoad("http://localhost:3000/getModel");
+
+     function modelLoad(model)
+     {
+      (async () => {
+        model = await tf.loadLayersModel(model);
+        const pred = model.predict(preprocess(myImage)).dataSync();
+        console.log(pred);
+        var array =  Array.prototype.slice.call(pred);
+        console.log((array*100)+"%")
+     })();
+     }
+     
+    function preprocess(img)
+    {
+
+    //convert the image data to a tensor 
+    let tensor = tf.browser.fromPixels(img)
+    //resize to 50 X 50
+    const resized = tf.image.resizeBilinear(tensor, [150,150]).toFloat()
+    // Normalize the image 
+    const offset = tf.scalar(255.0);
+    const normalized = tf.scalar(1.0).sub(resized.div(offset));
+    //We add a dimension to get a batch shape 
+    const batched = normalized.expandDims(0)
+    return batched
+    }
+    
+    </script>
+  </body>
+</html>
